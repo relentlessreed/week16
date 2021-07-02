@@ -1,0 +1,25 @@
+{
+  "name": "week16",
+  "version": "1.0.0",
+  "description": "<h1>Edward Reed's Project Portfolio</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailwind": "npx tailwindcss -o ./public/css/tailwind.css --jit --purge `./views/**/*.handlebars` --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relentlessreed/week16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/relentlessreed/week16/issues"
+  },
+  "homepage": "https://github.com/relentlessreed/week16#readme",
+  "dependencies": {
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^2.2.4"
+  }
+}
