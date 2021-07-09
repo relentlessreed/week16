@@ -1,7 +1,41 @@
-<h1>Edward Reed's Project Portfolio</h1>
+# My Portfolio ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-This is a most recently updated version of my portfolio. Included are three of my best most recent projects. Here you will find information on how to contact me, view a dawnloadable PDF of my resumé, see my GitHub page and its repositories, as well as my LinkedIn account.
+![Screenshot](portfolioupdate.png)
 
-[Link to deployable application](https://relentlessreed.github.io/week16/)
+# Description
 
-[Email Me: relentlessreed@gmail.com](mailto:relentlessreed@gmail.com?subject=GitHub)
+A collection of my best work.
+
+# Table Of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+# Installation
+
+User only needs a browser to view.
+
+# Usage
+
+This is intended for potential employers to view.
+
+# License
+
+This application is protected under conditions of the MIT license.
+
+# Contributing
+
+I am the only contributor for this project.
+
+# Tests
+
+No tests are needed for this.
+
+# Questions
+
+My GitHub Profile: http://www.github.com/relentlessreed  
+Please feel free to contact me with any inquiries via email at relentlessreed@gmail.com.
